@@ -1,8 +1,8 @@
 # Student_Loans_Calculator
 一个针对生源地贷款的小项目，计算其中的利息问题
 #### 编程语言:Visual Basic    
-#### IDE:Microsoft Visual Basic 6.0
-![截图](https://github.com/geekerboy/Student_Loans_Calculator/raw/master/files/v1.0_picture.jpg)
+#### IDE:Microsoft Visual Basic 6.0   
+![](https://i.imgur.com/FMNrvsA.jpg)
 ### 食用方式   
 下载这个项目，可执行文件Student_Loans_Calculator.exe在项目的files文件夹下，可以直接双击运行  
 如果想修改代码，打开Student Loans.vbp工程文件进去修改调试即可   
@@ -13,10 +13,22 @@
 做生源地贷款也就是国家开发银行学生贷款的同学，合同都大同小异，有自己想改造的也可以下载工程改造改造  
 想快点读懂代码的先看看上面链接里的分析，基本上就是用代码实现里面的想法
 ### TODO
-加入任意年份查询提前还一定本金需要还多少利息的信息  
+加入任意年份查询提前还一定本金需要还多少利息的信息（已完成）   
+计划换个语言重构一下，VB太Low了     
 每年还一定本金，总共有多少利息，多少年还完   
 如有多个贷款合同，提前还一定本金，怎么分配最合理   
 暂且想到这些，如果有想要加入的功能也可以在Issue留言
+### V2.0
+[下载链接](https://pan.baidu.com/s/1X8HjdFR9ZOaMCvTP9Ppx4w)
+提取码：2k87    
+![](https://i.imgur.com/o5XZZRi.jpg)   
+##### 更新内容   
+用菜单添加利息计算的相关说明   
+添加单位，调整一下排版细节   
+添加时间显示   
 ### V1.0
+[下载链接](https://pan.baidu.com/s/1R5Cjt745vmem63kn3JwMUg)
+提取码：do9l  
 ![截图](https://github.com/geekerboy/Student_Loans_Calculator/raw/master/files/v1.0_picture.jpg)  
 完成贷款合同条件下的每一年贷款利率以及总利率
+
