@@ -29,6 +29,6 @@
 ### V1.0
 [下载链接](https://pan.baidu.com/s/1R5Cjt745vmem63kn3JwMUg)
 提取码：do9l  
-![截图](https://github.com/geekerboy/Student_Loans_Calculator/raw/master/files/v1.0_picture.jpg)  
+![](https://i.imgur.com/QgRNVLH.jpg)    
 完成贷款合同条件下的每一年贷款利率以及总利率
 
